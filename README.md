@@ -21,3 +21,13 @@ Which contains two containers one for laravel 7 and one for mysql. I added an ot
 8. docker exec laravel npm run watch
 
 
+
+![login](https://user-images.githubusercontent.com/61298854/114736624-26d5a180-9d3e-11eb-9dd8-ba7333401e47.PNG)
+
+![register](https://user-images.githubusercontent.com/61298854/114736652-2b9a5580-9d3e-11eb-96f9-df543a393d1b.PNG)
+
+![dashboard](https://user-images.githubusercontent.com/61298854/114736692-37861780-9d3e-11eb-9821-162e6d31917b.PNG)
+
+![database](https://user-images.githubusercontent.com/61298854/114736733-41a81600-9d3e-11eb-92f4-3252218e8db7.PNG)
+
+
