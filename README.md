@@ -10,7 +10,7 @@ Which contains two containers one for laravel 7 and one for mysql. I added an ot
       https://docs.docker.com/compose/install/
    
 3.	Then clone the source code from git https://github.com/YCHOUGRANI/gomedia-test
-4.	Position to the onstate_api folder:    cd gomedia-test
+4.	Position to the gomedia-test folder:    cd gomedia-test
 
 5.	Run: Docker-composer up -d
 
